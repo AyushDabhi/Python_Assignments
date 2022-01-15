@@ -1,4 +1,4 @@
 # Python_Assignments
 
 
-ASIGNMENT 1
+ASSIGNMENT 1
