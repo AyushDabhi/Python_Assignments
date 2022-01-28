@@ -1,0 +1,6 @@
+a = int(input())
+b = list(map(int, input().split(' ')))
+set1 = set(b)
+lis1 = list(set1)
+lis1.reverse()
+print(lis1[1])
