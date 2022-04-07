@@ -52,6 +52,6 @@ class Result(Exam):
         print("Percentage : ", self.percent)
 
 
-r1 = Result(1, 'Bhargav', 26, 28, 21, 27, 25, 20)
+r1 = Result(15, 'Ayush', 26, 28, 21, 27, 25, 20)
 r1.total()
 r1.percentage()
